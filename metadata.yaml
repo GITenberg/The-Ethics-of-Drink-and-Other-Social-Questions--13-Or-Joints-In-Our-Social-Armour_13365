@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5023
     wikipedia: http://en.wikipedia.org/wiki/James_Runciman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13365#The-Ethics-of-Drink-and-Other-Social-Questions--13-Or-Joints-In-Our-Social-Armour
 gutenberg_issued: '2004-09-03'
 gutenberg_type: Text
 identifiers:
